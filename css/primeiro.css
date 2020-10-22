@@ -1,0 +1,22 @@
+.container{
+    background-image: url("../imagens/ambiente.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* *{
+    border: 1px solid black;
+} */
+
+
+.card-header{
+    background-color: rgba(80, 109, 238, 0.3);
+    
+}
+
+.card{
+    background: transparent;
+}

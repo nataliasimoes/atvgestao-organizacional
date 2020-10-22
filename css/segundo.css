@@ -1,0 +1,26 @@
+#meninalaptop{
+    background-image: url("../imagens/girl_laptop.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-position-y: 30px;
+    background-size: contain;
+    height: 300px;
+}
+
+#foguete{
+    background-image: url("../imagens/rocket.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+}
+
+#objetivos{
+    background-image: url("../imagens/cup_object.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: -60px;
+    height: 300px;
+}
+

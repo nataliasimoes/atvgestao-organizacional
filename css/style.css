@@ -1,0 +1,12 @@
+.container{
+    background-image: url("../imagens/bg-4.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+}
+
+
+.roxo{
+    margin-top: 100px;
+}

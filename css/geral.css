@@ -1,0 +1,25 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: #2a4de9; 
+}
+
+h2{
+    font-size: 35px;
+    color:  #2a4de9;
+}
+
+.roxo{
+    background-color: #2a4de9;;
+    color:white;
+}
+
+/* p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 130px;
+    color: #506dee;
+} */
